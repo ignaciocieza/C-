@@ -1,0 +1,52 @@
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\MainCorreo\obj\Debug\MainCorreo.pdb

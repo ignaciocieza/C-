@@ -1,0 +1,23 @@
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\user\source\repos\Ignacio.Cieza.2D.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\user\Desktop\Tp-Laboratorio-2-\TP-04\Ignacio.Cieza.2D.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\user\Desktop\Nueva carpeta (2)\Tp-Laboratorio-2-\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\user\Downloads\Programacion\Git Repositorios\C#\Tp-Laboratorio-2--master\RecuperatoriosTP\TP-04\Ignacio.Cieza.2D.TP4\Entidades\obj\Debug\Entidades.pdb
